@@ -7489,7 +7489,7 @@ or an array where each element is either a string or a hash.
 
 Python packages via `pip`.
 
-* Supported features: `installable`, `uninstallable`, `upgradeable`, `versionable`.
+* Supported features: `installable`, `uninstallable`, `upgradeable`, `versionable`, `install_options`.
 
 <h4 id="package-provider-pkg">pkg</h4>
 
